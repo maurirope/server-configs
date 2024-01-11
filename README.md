@@ -19,17 +19,18 @@ An easy-to-understand, well-documented, case-scenario-specific, unique configura
 
 These configuration files are not readily available elsewhere, often being a combination of multiple files extracted from different sources or a de-cluttered version of the original default file.
 
-**These files are solution-centric.** The approach is not to delve into the entire software solution. Many of these programs are versatile and powerful, with an entire ecosystem of certifications.
-Therefore, the focus is to keep it **as simple as possible** to achieve the desired outcome, maintaining some fair standards of security *(for a home-lab)*, while still guiding towards additional resources and an understanding of the underlying technologies.
+***These files are solution-centric.*** The approach is not to delve into the entire software solution. Many of these programs are versatile and powerful, with an entire ecosystem of certifications.
+Therefore, the focus is to keep it ***as simple as possible*** to achieve the desired outcome, maintaining some fair standards of security *(for a home-lab)*, while still guiding towards additional resources and an understanding of the underlying technologies.
 
 ## What will this project look like in the future?
 
-I have uploaded some basic .conf's from where I have removed my personal information to start the repository. The idea for now is to finish documenting everything I currently run at my home-lab and improve the documentation to include external references to the solutions provided. 
+I have uploaded some basic .conf's from where I have removed my personal information to start the repository. The idea for now is to finish documenting everything I currently run at my home-lab and improve the documentation to include external references to the solutions provided.
 
 My wish for the future is to be able to expand this into a community library of code snippets for SysAdmins/DevOps or you everyday server owner enthusiast, where folks can submit their snippets and/or provide support, updates and bug-reports.
 
 ## Feedback
-Thanks for visiting and reading my story thus far! 
+
+Thanks for visiting and reading my story thus far!
 I hope that you can find something useful for you here, or that you can find a way to contribute by sending PRs or issue reports.
 
 Mauricio R.
